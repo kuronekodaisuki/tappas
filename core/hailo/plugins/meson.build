@@ -36,6 +36,7 @@ plugin_sources = [
     'gallery/gsthailogallery.cpp',
     'export/export_file/gsthailoexportfile.cpp',
     'export/export_zmq/gsthailoexportzmq.cpp',
+    'export/export_alert/gsthailoalert.cpp',
     'import/import_zmq/gsthailoimportzmq.cpp',
 ]
 
